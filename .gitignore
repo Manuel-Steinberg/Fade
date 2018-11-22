@@ -1,0 +1,29 @@
+# Kirby CMS
+panel/
+site/cache/
+site/accounts/
+
+# UAC
+.htaccess
+.htpasswd
+
+# JetBrains PhpStorm specific folders/files
+_windows/
+.idea/
+inspection/
+
+databaseSettings.xml
+debugger.xml
+diff.xml
+filetypes.xml
+ide.general.xml
+IntelliLang.xml
+keyboard.xml
+notifications.xml
+vcs.xml
+webServers.xml
+web-browsers.xml
+bitbucket-cloud-registry.xml
+bitbucket-server-registry.xml
+colors.scheme.xml
+

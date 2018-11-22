@@ -1,0 +1,22 @@
+title: 
+  en: Error
+  de: Fehler
+
+pages: false
+
+fields:
+  title:
+    label:
+      en:  Title
+      de:  Titel
+    type:  text
+
+  intro:
+    label:
+      en:  Intro
+      de:  Einleitungstext
+    type:  textarea
+
+  text:
+    label: Text
+    type:  textarea

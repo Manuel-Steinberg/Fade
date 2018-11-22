@@ -1,0 +1,22 @@
+title: Site
+
+pages: default
+
+fields:
+  title:
+    label:
+      en: Title
+      de: Titel
+    type: text
+
+  description:
+    label:
+      en: Description
+      de: Beschreibung
+    type: textarea
+    
+  copyright:
+    label:
+      en: Copyright
+      de: Rechtliches
+    type: textarea
